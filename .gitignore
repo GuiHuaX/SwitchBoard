@@ -1,0 +1,22 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+.cache/
+
+\Build
+WINcc程序20231127
+PLC Source
+\智能型脱扣器用户调试界面 V1.0.0.180529_beta for JMR19
