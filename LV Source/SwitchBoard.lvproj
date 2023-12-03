@@ -10,14 +10,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="719 Create Database.vi" Type="VI" URL="../719 Create Database.vi"/>
-		<Item Name="719 Get Devices Info From DB.vi" Type="VI" URL="../719 Get Devices Info From DB.vi"/>
-		<Item Name="719 Initial Tree.vi" Type="VI" URL="../719 Initial Tree.vi"/>
-		<Item Name="719 Initial.vi" Type="VI" URL="../719 Initial.vi"/>
-		<Item Name="719 Read Excel Data.vi" Type="VI" URL="../719 Read Excel Data.vi"/>
-		<Item Name="719 SwitchBoard Demo.vi" Type="VI" URL="../719 SwitchBoard Demo.vi"/>
+		<Item Name="Create Database.vi" Type="VI" URL="../Create Database.vi"/>
 		<Item Name="FD.db" Type="Document" URL="../FD.db"/>
+		<Item Name="Get Devices Info From DB.vi" Type="VI" URL="../Get Devices Info From DB.vi"/>
+		<Item Name="Initial Tree.vi" Type="VI" URL="../Initial Tree.vi"/>
+		<Item Name="Initial.vi" Type="VI" URL="../Initial.vi"/>
+		<Item Name="Read Excel Data.vi" Type="VI" URL="../Read Excel Data.vi"/>
 		<Item Name="Ring下拉列表鼠标滚动事件.vi" Type="VI" URL="../Ring下拉列表鼠标滚动事件.vi"/>
+		<Item Name="SwitchBoard Demo.vi" Type="VI" URL="../SwitchBoard Demo.vi"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
